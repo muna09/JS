@@ -9,7 +9,7 @@ const config = require('./config');
 const { Message, OpType, Location } = require('../curve-thrift/line_types');
 //let exec = require('child_process').exec;
 
-const myBot = ['u67cadf7646dbf1b80be795d4f892466d','u38cbb60440251cd61c2e94efd715b181'];
+const myBot = ['uc0a77bf2c51794b80d7b46e9ab7b326d'];
 const banList = [];//Banned list
 var groupList = new Array();//Group list
 var vx = {};var midnornama,pesane,kickhim;var waitMsg = "no";//DO NOT CHANGE THIS
